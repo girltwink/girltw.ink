@@ -27,7 +27,7 @@ Self medication should be considered as a last-resort option. But for most, it i
 # MtF
 ## Overview
 Transfeminine HRT consists of an estrogen, and often an anti-androgen.
-Estrogens are a group of hormones that are responsible for feminisation. You'll also it being spelled Oestrogen. Anti-Androgens suppress the production or function of androgens, of which Testosterone is a type of.
+Estrogens are a group of hormones that are responsible for feminisation. You'll also it being spelled Oestrogen. Anti-Androgens suppress the production or function of androgens, such as Testosterone
 
 ## Estrogen
 Estrogen causes feminisation, with effects including
@@ -41,12 +41,12 @@ Estrogen Monotherapy refers to only taking estradiol for feminisation, sans anti
 
 ### Pills
 Pills are arguably the most popular form of DIY MtF HRT. They are relatively cheap, widely available, and very effective.
-You'll usually find them in 2mg/pill form. 4-8mg is a standard daily dose. You can either take them orally (swallowing) or sublingually [ ](holding under tongue). It's best to space out doses throughout the day. Pills are quite convenient as long as you remember to take them :)
+You'll usually find them in 2mg/pill form. 4-8mg is a standard daily dose. You can either take them orally (swallowing) [or sublingually  - holding under the tongue.](https://transfemscience.org/articles/sublingual-e2-transfem/) It's best to space out doses throughout the day. Pills are quite convenient as long as you remember to take them :)
 You should choose *estradiol valerate* or *estradiol hemihydrate*.
 A box of 84 pills is around £25-40. 
 ### Injections
 Injectable estrogen are becoming increasingly popular in transfeminine people as they have a number of advantages over other estrogen routes. For example, they are usually cheaper than other methods and often provide higher estradiol levels, often enough for sufficient testosterone suppression, negating the need for an anti-androgen. They are administered via intramuscular or subcutaneous injection.
-*Estradiol Valerate*, *Estradiol Cypionate*, and *Estradiol Enanthate* are common injectable estradiol esters. 
+*Estradiol Valerate*, *Estradiol Cypionate*, and *Estradiol Enanthate* are common injectable estradiol esters.
 [More information on injections here](https://diyhrt.wiki/transfem#injection_dosing)
 
 ### Transdermal
@@ -79,9 +79,9 @@ Progesterone can be considered as it may have some desirable feminisation effect
 There is little 'official' research into the effects of progesterone in transfeminine people, however common anecdotes include helping to 'round out' breast growth after the third tanner stage. It's also reported to increase libido, improve fat redistribution, and have inherent anti-androgenic effects.
 
 
-There is a very informative document as to the effects of progesterone in transfeminine people [here](https://docs.google.com/document/d/1OGiomfiMk18nPb3ITKZD9pWPvWRUlyI06enxahQpHBI/)
+There is [a very informative document as to the effects of progesterone in transfeminine people here](https://docs.google.com/document/d/1OGiomfiMk18nPb3ITKZD9pWPvWRUlyI06enxahQpHBI/)
 
-Progesterone is most efficient when taken rectally. You gotta boof it. You'll find it in 100mg and 200mg gel capsules. Oral progesterone loses the majority of its efficacy.
+Progesterone is most efficient when taken rectally. You gotta boof it. You'll find it in 100mg and 200mg gel capsules. [Oral progesterone loses the majority of its efficacy.](https://transfemscience.org/articles/oral-p4-low-levels/)
 
 ## Important notes
 **All forms of estrogen will increase your risk of blood clots.** Cis women carry this risk too. Higher the estradiol level, higher the risk. Oral estrogen carries a higher risk due to it being metabolised by the liver.
@@ -93,17 +93,6 @@ Cyproterone may cause side effects including increased prolactin levels and depr
 Cyproterone Acetate has been observed to have a heightened risk of complications including meningioma (small benign brain tumours). These risks have primarily been observed in extremely high doses of 50-100mg/day, for extended periods of time. These risks are still present, but **much** lower in doses relevant to transfeminine people. Due to only small doses being necessary for testosterone suppression, it's generally considered safe for HRT purposes.
 https://transfemscience.org/articles/cpa-meningioma/
 
-# FtM
-
-## Overview
-
-## Testosterone
-
-### Gel
-
-### Injections
-
-### Sourcing
 
 # Blood Tests
 When on HRT, it is necessary to get blood tests to measure hormone (and other relevant tests) levels. Without them, you may not know if the dose you are on is right for you.
@@ -177,7 +166,7 @@ You may try your luck with requesting this. I've had success by insisting the fo
 These are directories of well vetted, community-vouched-for HRT sources. These sources are usually overseas pharmacies that allow purchasing of HRT. It it legal to DIY HRT. Most sources support bank transfer payments, but you might need to use a payment provider like Wise, WesternUnion, etc. Cryptocurrencies may also work. Personally i've bought from GoodStuffStore, FavskinHouse, and UnitedPharmacies. 
 
 
-# Further Reading
+## Further Reading
 For more information, including other guides and community resources, check out:
 * [DIYHRT Wiki](https://diyhrt.wiki/)
 * [Transfeminine Science - Well written articles about HRT](https://transfemscience.org/)
@@ -185,3 +174,4 @@ For more information, including other guides and community resources, check out:
 * [TransgenderUK Subreddit](https://reddit.com/r/transgenderUK)
 * [TransDIY Subreddit](https://reddit.com/r/TransDIY)
 * [MtF HRT groups.io](https://groups.io/g/MTFHRT/)
+
