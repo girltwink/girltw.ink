@@ -17,58 +17,29 @@ enableGitInfo = true
 
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
-#hasCJKLanguage = true
-
-rssLimit = 10
 
 copyright = "Unlicense"
 enableEmoji = true
 
 
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700" 
+
+
 [params.author]
   name = "girltwink"
-  about = "meow"
+  #about = "about/"
 
 [blackfriday]
   # hrefTargetBlank = true
   # noreferrerLinks = true
   # nofollowLinks = true
 
-[taxonomies]
-  tag = "tags"
-  # Categories are disabled by default.
-
-[params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
-
-  # description = "girltwink gaysite"
-  # images = [""]
-  themeColor = "#494f5c"
-
-  #homeSubtitle = "CHANGE ME HOME SUBTITLE"
-  footerCopyright = "CHANGE ME FOOTER COPYRIGHT"
-  # bgImg = ""
-  # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
-
-  justifyContent = false
-
-  relatedPosts = true
-  code_copy_button = true
-
-  homeSubtitlePrinter = true
-  scrollToTop = true 
-  global_mathjax = false
-  readTime = true
-  readTimeSeparator = "CHANGE ME READ TIME"
-  # legacyLayout = false
   shareSocial = true
 
-  [[params.socialLinks]]
-    name = "mastodon"
-    url = "https://joinmastodon.org/"
 
   [[params.socialLinks]]
     name = "x"

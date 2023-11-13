@@ -1,7 +1,8 @@
 ---
-title: "Mtf Hrt Infodump"
+title: "MtF HRT Infodump"
 date: 2023-11-06T19:43:09Z
 draft: false
+slug: mtf-hrt
 ---
 
 # Disclaimer
