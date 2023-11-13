@@ -1,7 +1,7 @@
 ---
 title: "Mtf Hrt Infodump"
 date: 2023-11-06T19:43:09Z
-draft: true
+draft: false
 ---
 
 # Disclaimer

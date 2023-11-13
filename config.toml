@@ -2,3 +2,93 @@ baseURL = "https://girltw.ink/"
 languageCode = "en-gb"
 title = "Girltwink Gaysite"
 theme = 'hermit-v2'
+
+# THIS IS AN EXAMPLE ON HOW YOU SHOULD CONFIGURE YOUR hugo.toml
+# See this hugo.toml in action at https://github.com/1bl4z3r/hermit-V2/blob/staging/hugo.toml
+# Example Site is Staging branch, acessible at https://github.com/1bl4z3r/hermit-V2/tree/staging
+# To see what each config does, refer to https://1bl4z3r.github.io/hermit-V2/en/posts/explaining-configs/
+# Open Issue or Pull Request at https://github.com/1bl4z3r/hermit-V2
+
+baseURL = "https://girltw.ink"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+languageCode = "en-gb"
+
+title = "Girltwink Gaysite"
+enableGitInfo = true
+
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+#hasCJKLanguage = true
+
+rssLimit = 10
+
+copyright = "Unlicense"
+enableEmoji = true
+
+
+[params.author]
+  name = "girltwink"
+  about = "meow"
+
+[blackfriday]
+  # hrefTargetBlank = true
+  # noreferrerLinks = true
+  # nofollowLinks = true
+
+[taxonomies]
+  tag = "tags"
+  # Categories are disabled by default.
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # description = "girltwink gaysite"
+  # images = [""]
+  themeColor = "#494f5c"
+
+  #homeSubtitle = "CHANGE ME HOME SUBTITLE"
+  footerCopyright = "CHANGE ME FOOTER COPYRIGHT"
+  # bgImg = ""
+  # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
+
+  justifyContent = false
+
+  relatedPosts = true
+  code_copy_button = true
+
+  homeSubtitlePrinter = true
+  scrollToTop = true 
+  global_mathjax = false
+  readTime = true
+  readTimeSeparator = "CHANGE ME READ TIME"
+  # legacyLayout = false
+  shareSocial = true
+
+  [[params.socialLinks]]
+    name = "mastodon"
+    url = "https://joinmastodon.org/"
+
+  [[params.socialLinks]]
+    name = "x"
+    url = "https://twitter.com/_girltwink"
+
+  [[params.socialLinks]]
+    name = "github"
+    url = "https://github.com/girltwink"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 20
